@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace _USD_to_BGN
+namespace 01_USD_to_BGN
 {
     internal class Program
     {
